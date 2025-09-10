@@ -96,3 +96,6 @@ Instancia de Maquina EC2, t4g.micro com 2 vCPUs, 1 GiB de RAM, até 5 Gbps ← a
 - **Conclusão:**
 A análise de preços mostra que a região Virgínia do Norte (us-east-1) é a mais econômica para hospedar a API e o modelo de Machine Learning, com custo aproximado de US$ 8.38/mês, enquanto a região São Paulo (sa-east-1) chega a cerca de US$ 14.08/mês.
 Portanto, a recomendação é utilizar a instância t4g.micro com 50 GB de armazenamento HDD (sc1) na Virgínia do Norte, garantindo desempenho adequado com menor custo operacional.
+
+## Video de explicação entrega 2
+https://youtu.be/0dd_JXOx4-I

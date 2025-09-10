@@ -1,3 +1,6 @@
+## 👨‍💻 Autores
+- Projeto desenvolvido por [Rodrigo Portugal Santos, Carlos Daniel Silveira Do Nascimento, Mauricio Jose Ferlin Tonnera] para a FIAP — Fase 5 do curso.
+
 ## **Meta de entrega 1**
 
 ## 🎯 Objetivo do Projeto
@@ -7,7 +10,6 @@
 - **Modelagem Preditiva**: treinar 5 modelos de regressão supervisionada (`LinearRegression`, `Ridge`, `RandomForestRegressor`, `GradientBoostingRegressor`, `SVR`) para prever rendimento.  
 - **Boas Práticas de ML**: pipelines reprodutíveis, validação cruzada (`RepeatedKFold`), `GridSearchCV` leve para ajuste de hiperparâmetros, métricas adequadas.  
 - **Conclusão e Relatório**: seção final com pontos fortes, limitações e sugestões de próximos passos.
-
 
 ## 🔧 Requisitos
 
@@ -47,11 +49,8 @@ Clusterização revelou grupos distintos de rendimento; outliers foram identific
 - Busca de hiperparâmetros reduzida (para execução rápida); tuning maior pode melhorar ensembles.
 - Clusterização feita em PCA 2D; métodos mais avançados (UMAP/t-SNE) podem explorar melhor a estrutura dos dados.
 
-## 👨‍💻 Autores
-- Projeto desenvolvido por [Rodrigo Portugal Santos, Carlos Daniel Silveira Do Nascimento, Mauricio Jose Ferlin Tonnera] para a FIAP — Fase 5 do curso.
-
-
-
+## Video de explicação entrega 1
+https://youtu.be/-HcJFriFmyM
 
 
 ## **Meta de entrega 2**
@@ -87,7 +86,6 @@ Instancia de Maquina EC2, t4g.micro com 2 vCPUs, 1 GiB de RAM, até 5 Gbps ← a
 
 - 50 GB de armazenamento (HD) de Throughput Optimized HDD(st 1) ← atendendo perfeitamente as configurações -> Valor de $2.25 p/mês
 <img width="1472" height="630" alt="image" src="https://github.com/user-attachments/assets/a3995774-7a38-4323-a2b6-978dcb58f392" />
-
 
 - **Resultado Calculo total**
  $ 8.38 p/mês na região de Virgínia do Norte
